@@ -6,7 +6,7 @@ for review.
 
 ## Minimum Viable Product
 
-1. ElasticSearch for Goal Sentences
+1. Elasticsearch for Goal Sentences
 2. Taxonomy of Sentence Pairs
 3. Sentence Generation
 3.1. Regular Notifications via E-mail to stay on track when essay writing
